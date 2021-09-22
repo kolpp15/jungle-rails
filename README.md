@@ -3,25 +3,25 @@
 A mini e-commerce application built with Rails 4.2.
 
 # Screenshots
-### Homepage
-> Homepage showing all list of products, Signup and Login buttons.
+## Homepage
+> Homepage showing all list of products. Users can register, login and logout.
 
-!["Home"]()
+!["Home"](https://github.com/kolpp15/jungle-rails/blob/master/docs/Home.gif?raw=true)
 
-### Add to Cart
+## Add to Cart
 > Logged in users can add products to the cart.
 
-!["AddCart"]()
+!["AddCart"](https://github.com/kolpp15/jungle-rails/blob/master/docs/AddCart.gif?raw=true)
 
-### Submit Order
+## Submit Order
 > Users can purchase the order as well as the order details.
 
-!["Order"]()
+!["Order"](https://github.com/kolpp15/jungle-rails/blob/master/docs/Order.gif?raw=true)
 
-### Admin Dashboard
-> Admin can create, delete and edit the products and categories. 
+## Admin Dashboard
+> Admin can create, delete and edit products and categories. 
 
-!["Admin"]()
+!["Admin"](https://github.com/kolpp15/jungle-rails/blob/master/docs/Admin.gif?raw=true)
 
 # Additional Steps for Apple M1 Machines
 
